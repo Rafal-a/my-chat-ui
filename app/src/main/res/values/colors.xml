@@ -9,8 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="indigo">#0096c7</color>
     <color name="dark_blue">#0077b6</color>
-    <color name="SendMessageFirstGradient">#ff9966</color>
-    <color name="SendMessageSecondGradient">#ff5e62</color>
+    <color name="SendMessageFirstGradient">#d66d75</color>
+    <color name="SendMessageSecondGradient">#e29587</color>
     <color name="receiveMessage">#396afc</color>
+    <color name="grey">#ddde</color>
 
 </resources>
