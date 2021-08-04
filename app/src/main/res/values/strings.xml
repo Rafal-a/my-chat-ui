@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MyChat</string>
+    <string name="first_message">Hi leo.What\'s up???\nI need a new logo for group</string>
+    <string name="second_message">simple.minimal and beautiful</string>
+    <string name="third_message">OK, Ill start next week.\nSend me documents today</string>
+    <string name="fourth_message">Oh,That\'s great &#128525; </string>
+    <string name="first_message_time">23:23</string>
+    <string name="second_message_time">23:36</string>
+    <string name="reciever_time">23:30</string>
+    <string name="emoji_icon_description">Emoji icon</string>
+    <string name="upload_file_icon">upload file</string>
+    <string name="record_icon">voice record</string>
 </resources>
